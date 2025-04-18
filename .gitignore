@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Cloned external repositories
+ASVS/
+owasp-asvs-ja/
+
+# Generated output
+output/
+
+# Editor/Tool specific
+.vscode/
+.cursor/
+.mypy_cache/
+.ruff_cache/
+mise.toml
+.python-version
+.DS_Store
