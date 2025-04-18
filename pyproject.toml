@@ -1,9 +1,9 @@
 [project]
 name = "owasp-asvs-csv-converter"
-version = "0.1.0"
+version = "1.0.0"
 description = "Generates and merges English/Japanese OWASP ASVS 5.0 CSV files."
 authors = [
-    { name = "yaboxi", email = "z.yaboxi@gmail.com" }, # Please update this
+    { name = "yaboxi", email = "z.yaboxi@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.13"
@@ -17,5 +17,3 @@ dev = [
     "mypy",
     "pandas-stubs",
 ]
-
-# Add other sections like [tool.ruff] or [tool.mypy] for configuration if needed later
