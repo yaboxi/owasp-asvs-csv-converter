@@ -5,8 +5,6 @@
 import sys
 import logging
 
-# Removed sys.path modification
-
 from src import config, csv_generator, csv_merger, repo_fetcher
 
 
